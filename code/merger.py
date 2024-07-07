@@ -29,9 +29,9 @@ def merge_csv_files(folder_path, output_file_path):
 
 if __name__ == "__main__":
     # Specify the folder path containing the CSV files
-    folder_path = R'C:\Users\User\Documents\GitHub\AI-Builders-2024\data copy'
+    folder_path = R'D:/github/AI-Builders-2024/unused/best 20'
     # Specify the output file path
-    output_file_path = 'review summarizer/merged2.csv'
+    output_file_path = R'D:/github/AI-Builders-2024/unused/llm data/dataset.csv'
     
     # Merge the CSV files
     merge_csv_files(folder_path, output_file_path)
